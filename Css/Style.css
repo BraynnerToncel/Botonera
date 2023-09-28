@@ -8,13 +8,14 @@
 .btn-primary{
 
     border-radius: 8px;
-    background-color: #CC0099;
+    background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%, #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
     margin: 2px;
+    
 }
 
 .btn-second{
     border-radius: 8px;
     background-color: grey;
     margin: 2px;
-
+    
 }
