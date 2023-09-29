@@ -1,27 +1,62 @@
 .container{
-    display:inline-flex;
+   
+display: inline-flex;  
 }
 
 .col{
     display: flex;
     border-radius: 10px;
-    margin: 10px;
+    margin: 5px;
+   
 }
 .btn-primary{
     border-radius: 8px;
     background-image: radial-gradient(circle at 50% -20.71%, #fe8f62 0, #ff8564 8.33%, #ff7967 16.67%, #ff6c6b 25%, #fd5e6e 33.33%, #f84e73 41.67%, #f23c78 50%, #ea287e 58.33%, #e10e86 66.67%, #d6008f 75%, #ca0098 83.33%, #bb00a3 91.67%, #aa00ae 100%);
     margin:2px;  
+    border-color: transparent;
+    width: 40px; 
+    height: 40px; 
+   
    
 }
 .btn-second{
     border-radius: 8px;
     background-color: grey;
     margin: 3px;
+    border-color: transparent;
+    width: 40px; 
+    height: 40px
+    
 }
 .btn-group{
 margin: 6px;
+border-color: transparent;
 }
 
 input{
     margin: 3px;
+    width: 100%;
 }
+.btn-info{
+    border-radius: 8px;
+    background-color: gray;
+    margin: 3px;
+    border-color: transparent;
+    width: 100px; 
+    height: 40px
+     
+}
+.btn-info-1{
+    border-radius: 8px;
+    background-color: gray;
+    margin: 3px;
+    border-color: transparent;
+    width: 100px; 
+    height: 40px
+     
+}
+.letter{
+    font-family: sans-serif;
+    font-size:70%;
+    font-style: normal;
+} 
